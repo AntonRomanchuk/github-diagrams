@@ -118,3 +118,44 @@ classDiagram
   ```
   
 </details>
+
+Our accessibility data
+
+```mermaid
+pie title Font size
+    "A11y_M" : 2248
+    "A11y_L" : 842
+    "A11y_XL" : 9.07
+    "XXL" : 176
+    "A11y_XXL" : 41
+    "A11y_XXXL" : 25
+    "XS" : 9183
+    "S" : 6965
+    "M" : 14216
+    "Default" : 169107
+    "XL" : 24372
+    "XXL" : 17077
+    "XXXL" : 24373   
+```
+
+<details>
+  <summary>Code</summary>
+ 
+  ```
+pie title Font size
+    "A11y_M" : 2248
+    "A11y_L" : 842
+    "A11y_XL" : 9.07
+    "XXL" : 176
+    "A11y_XXL" : 41
+    "A11y_XXXL" : 25
+    "XS" : 9183
+    "S" : 6965
+    "M" : 14216
+    "Default" : 169107
+    "XL" : 24372
+    "XXL" : 17077
+    "XXXL" : 24373   
+  ```
+  
+</details>
