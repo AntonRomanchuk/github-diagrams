@@ -1,4 +1,6 @@
+Mermaid - https://github.com/mermaid-js/mermaid
 Live editor - https://mermaid-js.github.io/mermaid-live-editor/edit
+Confluence example - https://toshihiro.atlassian.net/wiki/spaces/MIFC/pages/338984978/Demo
 
 https://wiki.shop-apotheke.com/display/MAPPD/MVP+-+Model+View+Presenter
 
